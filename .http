@@ -1,0 +1,10 @@
+POST http://localhost:3000/records
+Content-Type: application/json
+
+{
+    "name": "Saloni",
+    "time": 6,
+    "date": "07.12.2021",
+    "mood": "average"
+    
+}
